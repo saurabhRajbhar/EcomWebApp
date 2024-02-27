@@ -68,9 +68,7 @@ const OpenDialog=()=>{
                 : 
                 <LoginButton variant="contained"  onClick={()=>OpenDialog()} >Login</LoginButton>
             }
-            {/* <Typography style={{marginTop:7 , width:135}}>Become a Seller</Typography> 
-             */}
-             <Typography>Be a Seller</Typography>
+            <Typography style={{marginTop:7 , width:135}}>Become a Seller</Typography> 
             <Typography style={{marginTop:7  }}>More</Typography>
             
             <Container to='/cart' marginTop={1}> 

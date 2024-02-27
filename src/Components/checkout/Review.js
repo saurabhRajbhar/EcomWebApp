@@ -9,17 +9,17 @@ const products = [
   {
     name: 'Product 1',
     desc: 'A nice thing',
-    price: '199',
+    price: '1990',
   },
   {
     name: 'Product 2',
     desc: 'Another thing',
-    price: '245',
+    price: '2450',
   },
   {
     name: 'Product 3',
     desc: 'Something else',
-    price: '551',
+    price: '55',
   },
   {
     name: 'Product 4',

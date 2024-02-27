@@ -22,25 +22,20 @@ This project is an e-commerce website built using the MERN stack. It allows user
 - Run the backend server using `npm start` and the frontend using `npm run client`.
 - Access the application in your web browser at http://localhost:3000.
 
-*** I have also provide my git repository u can see this for your reference 
+*** I have also provide my git repository u can see this for your reference:- 
 
+" https://github.com/saurabhRajbhar/EcomWebApp/blob/saurabh01/README.md"
+ 
+**Clone the Repository: Clone the project repository from GitHub to your local machine.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***Install Dependencies: Navigate to the project directory and install the required dependencies for both the frontend and backend.
+bash
+"cd EcomWebApp
+cd client
+npm install
+cd ..
+cd server
+npm install"
 
 
 
